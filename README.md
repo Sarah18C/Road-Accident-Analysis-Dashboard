@@ -55,3 +55,8 @@ Power Query – Data Cleaning, Transformation, and ETL processes
 Bing Maps Integration – For geospatial distribution of accidents
 
 Excel/CSV – Source dataset containing accident records
+
+Screenshot of Dashboard
+
+Example:[Dashboard Preview]
+
