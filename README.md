@@ -1,3 +1,5 @@
+<img width="1296" height="723" alt="Snapshot of Road Accident Analysis Dashboard" src="https://github.com/user-attachments/assets/b571b2b9-2423-457b-a8e2-bcc9fee6f372" />
+<img width="1296" height="723" alt="Snapshot of Road Accident Analysis Dashboard" src="https://github.com/user-attachments/assets/830813c5-fd79-4446-a234-53283a4acfca" />
 # Road-Accident-Analysis-Dashboard (Power BI)
 📊 Road Accident Analysis Dashboard
 
@@ -60,3 +62,4 @@ Screenshot of Dashboard
 
 Example:[Dashboard Preview]
 
+<img width="1296" height="723" alt="Snapshot of Road Accident Analysis Dashboard" src="https://github.com/user-attachments/assets/a0e231e5-779f-495b-82dd-d807610f1c65" />
